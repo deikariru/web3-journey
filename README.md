@@ -69,6 +69,19 @@ contract Counter {
 ```
 
 ---
+## Deployment Information
+
+Network: Ethereum Sepolia
+
+Contract Address:
+0x74a1f798544089bc2ff3fd831b67b28e5d6323be
+
+Deployment Transaction:
+0xe2f10b82773ab0d46ff36bf14c47ebddad6cd12adbdbab70c5e029c9017499dd
+
+Sepolia explorer:
+https://sepolia.etherscan.io/tx/0xe2f10b82773ab0d46ff36bf14c47ebddad6cd12adbdbab70c5e029c9017499dd
+---
 
 ## What I Learned
 
